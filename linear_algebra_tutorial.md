@@ -1,8 +1,5 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+<img src="logo.png" class="logo" width="120"/>
 
-# 
-
----
 
 # A Comprehensive Linear Algebra Tutorial for Data Science: From Matrix Basics to Advanced Operations
 
@@ -443,7 +440,7 @@ The concepts covered in this tutorial form the basis for a wide range of applica
 
 Remember that practice is key to mastering linear algebra. Work through the provided examples and practice problems, and try to apply these concepts to real-world data science problems. As you gain more experience, you'll develop an intuition for how to leverage linear algebra to solve complex data challenges effectively.
 
-<div style="text-align: center">⁂</div>
+<div style="text-align: center"></div>
 
 [^1]: https://www.w3schools.com/ai/ai_algebra.asp
 
