@@ -20,16 +20,16 @@ This repository contains a comprehensive tutorial on Linear Algebra for Data Sci
 
 The main content is available in two formats:
 
-1. **Markdown**: For easy viewing directly on GitHub.
-2. **PDF**: For offline reading and better rendering of mathematical equations.
+1.⁠ ⁠*Markdown*: For easy viewing directly on GitHub, [click here to view the tutorial](linear_algebra_tutorial.md).
+2.⁠ ⁠*PDF*: For offline reading and better rendering of mathematical equations, [click here to download the PDF](linear_algebra_tutorial.pdf).
 
 ### Viewing on GitHub
 
-Navigate to the `linear_algebra_tutorial.md` file in this repository to view the content directly on GitHub.
+Navigate to the [linear_algebra_tutorial.md](linear_algebra_tutorial.md) file in this repository to view the content.
 
 ### Downloading PDF
 
-Download the `linear_algebra_tutorial.pdf` file for offline reading or better equation rendering.
+Download the [linear_algebra_tutorial.pdf](linear_algebra_tutorial.pdf) file for offline reading or better rendering of mathematical equations.
 
 ## Contributing
 
