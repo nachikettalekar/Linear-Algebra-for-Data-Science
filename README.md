@@ -1,4 +1,6 @@
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
+# 
 # A Comprehensive Linear Algebra Tutorial for Data Science: From Matrix Basics to Advanced Operations
 
 Linear algebra forms the mathematical backbone of data science and machine learning algorithms. This comprehensive tutorial covers essential linear algebra concepts, from basic matrix operations to advanced topics like eigenvalues and eigenvectors, with plenty of examples and practice problems to reinforce your understanding. By the end of this tutorial, you'll have gained the necessary mathematical foundation to tackle complex data science challenges with confidence.
