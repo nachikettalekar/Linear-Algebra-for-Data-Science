@@ -1,4 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+<img src="logo.png" class="logo" width="120"/>
 
 # 
 # A Comprehensive Linear Algebra Tutorial for Data Science: From Matrix Basics to Advanced Operations
