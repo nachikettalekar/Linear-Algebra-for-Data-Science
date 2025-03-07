@@ -1,4 +1,4 @@
-<img src="logo.png" class="logo" width="120"/>
+<img src="logo1.png" class="logo" width="120"/>
 
 # Linear Algebra for Data Science
 
